@@ -1,135 +1,116 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:075985,100:06B6D4&height=200&section=header&text=STEAM%20AI&fontSize=52&fontColor=67E8F9&animation=fadeIn&fontAlignY=35&desc=PERSONAL%20HOLOGRAPHIC%20INTERFACE&descAlignY=60&descSize=15" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=STEAM+AI+SYSTEM+INITIALIZED;WELCOME+TO+NAZWAR'S+DEVELOPMENT+LAB;SOFTWARE+ENGINEERING+MODULE+ACTIVE;JAVA+%7C+PHP+%7C+C%23+%7C+C%2B%2B;BUILDING+THE+FUTURE+THROUGH+CODE" /><br/><img src="https://img.shields.io/badge/STEAM-AI%20INTERFACE-06B6D4?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00C896?style=for-the-badge" />
-<img src="https://img.shields.io/badge/USER-NAZWAR-0284C7?style=for-the-badge" /></div>---
+<!-- COSMIC PROFILE: MUHAMMAD NAZWAR --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B2A,45:172B70,100:00C9FF&text=MUHAMMAD%20NAZWAR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=INFORMATICS%20STUDENT%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=13&animation=fadeIn" width="100%" />✦ Exploring Technology Beyond Limits ✦
 
-<div align="center">◈ SYSTEM IDENTIFICATION
+Informatics Student | Software Development Enthusiast
 
-"[ ACCESS GRANTED ]"
+Learning, Building, and Exploring the Digital Universe.
 
-</div>╔════════════════════════════════════════════╗
-║          STEAM // USER DATABASE            ║
-╠════════════════════════════════════════════╣
-║                                            ║
-║  USER       : MUHAMMAD NAZWAR              ║
-║  FULL NAME  : MUHAMMAD NAZWAR ABDILLAH     ║
-║               PUTRA                        ║
-║  DESIGNATION: INFORMATICS STUDENT          ║
-║  INSTITUTION: UNIVERSITAS LANGLANGBUANA    ║
-║  SEMESTER   : 05                           ║
-║  GPA        : 3.65 / 4.00                  ║
-║  LOCATION   : BANDUNG, INDONESIA           ║
-║                                            ║
-║  SYSTEM STATUS: LEARNING & DEVELOPING      ║
-╚════════════════════════════════════════════╝
+<img src="https://img.shields.io/badge/University-Universitas%20Langlangbuana-172B70?style=for-the-badge&logo=university&logoColor=white" />
+<img src="https://img.shields.io/badge/Field-Informatics-00BFFF?style=for-the-badge&logo=codeforces&logoColor=white" /></div>---
 
-"01 // ABOUT THE USER"
+🌌 About Me
 
-Hello! I'm Muhammad Nazwar Abdillah Putra, a 5th-semester Informatics Engineering student at Universitas Langlangbuana.
+Hello! I'm Muhammad Nazwar, an Informatics student at Universitas Langlangbuana.
 
-I'm passionate about software development and information technology. I have experience developing academic applications using Java, Laravel, and C#, working with MySQL and SQLite databases, implementing CRUD functionality, and testing APIs using Postman.
+I have an interest in software development and information technology. Through academic projects, I have worked with programming languages such as Java, PHP, C#, and C++.
 
-Currently focused on improving my programming skills, exploring software engineering, and building practical technology solutions.
+I have also learned to develop CRUD systems, work with databases, and test applications using Postman.
 
-«"Technology is not just about writing code. It's about creating solutions."»
+My goal is to continuously improve my technical skills and gain more experience in software development.
 
 ---
 
-<div align="center">◈ TECHNOLOGY MODULES
+🚀 Technology Universe
 
-"[ SCANNING AVAILABLE TECHNOLOGIES ]"
+Programming Languages
 
-</div>"02 // PROGRAMMING CORE"
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+"PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+"C Sharp" (https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<div align="center"><img src="https://skillicons.dev/icons?i=java,php,cs,cpp&theme=dark" /></div>"03 // DEVELOPMENT FRAMEWORK"
+Framework & Database
 
-<div align="center"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" /></div>"04 // DATABASE SYSTEM"
+"Laravel" (https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"SQLite" (https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<div align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" /></div>"05 // DEVELOPMENT TOOLS"
+Development Tools
 
-<div align="center"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman&theme=dark" /></div>---
+"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+"Visual Studio" (https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div align="center">◈ MISSION ARCHIVE
+---
 
-"[ LOADING EXPERIENCE RECORDS ]"
+🛰️ Mission Archive
 
-</div>MISSION 001 — ICISS 2025
+ICISS 2025 — Assistant Moderator
 
-International Conference on ICT for Smart Society
+September 2025
 
-<kbd>SEPTEMBER 2025</kbd> "ROLE: ASSISTANT MODERATOR"
-
-- Assisted moderators in managing presentation sessions, including timekeeping and activity summaries.
-- Documented presentations delivered by national and international speakers.
+- Assisted in managing conference presentation sessions.
+- Helped with timekeeping and activity summaries.
+- Documented materials presented by national and international speakers.
 - Prepared event reports and conference archives.
 
-MISSION 002 — LIVABLE CITY INDEX 2026
+Livable City Index Kota Bandung 2026 — Surveyor
 
-Bandung City
+August – October 2026
 
-<kbd>AUGUST – OCTOBER 2026</kbd> "ROLE: SURVEYOR"
+- Collected field data through surveys and direct interviews.
+- Coordinated with the survey team.
+- Followed data collection procedures and established targets.
 
-- Conducted field data collection through surveys and direct interviews.
-- Coordinated with the survey team to ensure data collection followed established procedures.
-- Helped achieve field survey targets.
+PKM-KC 2026 — Team Member
 
-MISSION 003 — PKM-KC 2026
+April 2026
 
-Student Creativity Program – Karsa Cipta
-
-<kbd>APRIL 2026</kbd> "ROLE: TEAM MEMBER"
-
-- Collaborated on a research proposal for an IoT-based smart trash bin.
-- Developed the concept of automatic waste sorting using sensors.
-- Contributed to a voice-guidance feature to improve accessibility for people with disabilities.
+- Participated in preparing a proposal for an IoT-based smart trash bin.
+- Developed a concept for automatic waste sorting using sensors.
+- Proposed voice guidance features to improve accessibility for people with disabilities.
 
 ---
 
-<div align="center">◈ PROJECT DATABASE
+🪐 Academic Exploration
 
-"[ ACCESSING DEVELOPMENT ARCHIVE ]"
+Areas explored through academic learning and projects:
 
-</div>PROJECT| DESCRIPTION| TECHNOLOGY
-Academic Applications| CRUD applications and database integration| Java, Laravel, C#, MySQL, SQLite
-Smart Trash Bin| Automatic waste sorting concept with voice guidance| IoT, Sensors
-API Testing| API endpoint testing and validation| Postman
-
----
-
-<div align="center">◈ EDUCATION MODULE
-
-"[ ACADEMIC RECORD ]"
-
-</div>UNIVERSITAS LANGLANGBUANA
-
-DEGREE       : BACHELOR'S DEGREE
-MAJOR        : INFORMATICS ENGINEERING
-PERIOD       : 2024 - PRESENT
-CURRENT GPA  : 3.65 / 4.00
+- Application development using Java, PHP, and C#.
+- CRUD system development.
+- MySQL and SQLite database management.
+- Application testing with Postman.
+- IoT-based smart device concept design.
 
 ---
 
-<div align="center">◈ SYSTEM DIAGNOSTICS
+🎓 Education
 
-"[ GITHUB PERFORMANCE MONITOR ]"
+Universitas Langlangbuana
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=38BDF8&text_color=BAE6FD" width="95%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=020617&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE" width="95%" /><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20ACCESS&color=0891B2&style=for-the-badge" /></div>---
+Bachelor's Degree in Informatics
+2024 – Present
 
-<div align="center">◈ COMMUNICATION CHANNEL
+GPA: 3.65 / 4.00
 
-"[ ESTABLISH CONNECTION ]"
+---
 
-<a href="mailto:nazwaradp@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00B8D9?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><br/><br/>
+🌍 Language
 
-╔══════════════════════════════════════╗
-║          STEAM AI SYSTEM             ║
-╠══════════════════════════════════════╣
-║  USER    : MUHAMMAD NAZWAR           ║
-║  MISSION : BUILD • LEARN • INNOVATE  ║
-║  STATUS  : CONTINUOUS DEVELOPMENT    ║
-╚══════════════════════════════════════╝
+- Indonesian — Native
+- English — Active (Reading and Writing)
 
-"The future is built, not predicted."
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=120&section=footer" width="100%" /></div>
+📡 Contact Station
+
+📍 Bandung, West Java, Indonesia
+
+📧 Email: nazwaradp@gmail.com
+
+---
+
+<div align="center">✨ Keep Exploring. Keep Learning. Keep Creating. ✨
+
+Every line of code is another step into the digital universe.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:172B70,100:080B2A&height=110&section=footer" width="100%" /></div>
