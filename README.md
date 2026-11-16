@@ -103,39 +103,3 @@
 
 <!-- Glowing Nebula Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- MISSION ARCHIVE LOGS -->
-<div align="center">
-  <h2>🛰️ <code>[ MISSION ARCHIVE LOGS ]</code></h2>
-</div>
-
-```yaml
-MISSION_01:
-  Title  : "International Conference on ICT for Smart Society (ICISS) 2025"
-  Role   : "Assistant Moderator"
-  Period : "September 2025"
-  Logs   :
-    - "Assisted the moderator in managing presentation sessions."
-    - "Executed strict timekeeping and session activity summaries."
-    - "Recorded and documented materials from national & international speakers."
-    - "Compiled event documentation into structured conference reports & archives."
-
-MISSION_02:
-  Title  : "Livable City Index Kota Bandung 2026"
-  Role   : "Surveyor"
-  Period : "August – October 2026"
-  Logs   :
-    - "Collected field telemetry through surveys and direct respondent interviews."
-    - "Coordinated with the survey squad during field data acquisition."
-    - "Maintained compliance with established procedures and target metrics."
-
-MISSION_03:
-  Title  : "Program Kreativitas Mahasiswa – Karsa Cipta (PKM-KC) 2026"
-  Role   : "Team Member"
-  Period : "April 2026"
-  Logs   :
-    - "Engineered a team proposal for an IoT-based smart waste receptacle."
-    - "Designed automatic waste sorting logic using multi-sensor integration."
-    - "Proposed voice-guidance accessibility features for users with disabilities."
