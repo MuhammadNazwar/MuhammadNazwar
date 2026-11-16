@@ -1,114 +1,135 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=STEAM%20AI%20SYSTEM&fontSize=36&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=PERSONAL%20ARTIFICIAL%20INTELLIGENCE%20INTERFACE&descSize=12&descAlignY=60" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;WELCOME+TO+NAZWAR'S+DEVELOPMENT+LAB;SOFTWARE+DEVELOPMENT+MODULE+ACTIVE;JAVA+%7C+PHP+%7C+C%23+%7C+C%2B%2B;POWERED+BY+STEAM+AI" /><br/><img src="https://img.shields.io/badge/STEAM-AI%20ASSISTANT-00D9FF?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/USER-MUHAMMAD%20NAZWAR-0077FF?style=for-the-badge" /></div>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:075985,100:06B6D4&height=200&section=header&text=STEAM%20AI&fontSize=52&fontColor=67E8F9&animation=fadeIn&fontAlignY=35&desc=PERSONAL%20HOLOGRAPHIC%20INTERFACE&descAlignY=60&descSize=15" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=STEAM+AI+SYSTEM+INITIALIZED;WELCOME+TO+NAZWAR'S+DEVELOPMENT+LAB;SOFTWARE+ENGINEERING+MODULE+ACTIVE;JAVA+%7C+PHP+%7C+C%23+%7C+C%2B%2B;BUILDING+THE+FUTURE+THROUGH+CODE" /><br/><img src="https://img.shields.io/badge/STEAM-AI%20INTERFACE-06B6D4?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00C896?style=for-the-badge" />
+<img src="https://img.shields.io/badge/USER-NAZWAR-0284C7?style=for-the-badge" /></div>---
 
-"01 // USER IDENTIFICATION"
+<div align="center">◈ SYSTEM IDENTIFICATION
 
-╔══════════════════════════════════════╗
-║         STEAM AI INTERFACE           ║
-╠══════════════════════════════════════╣
-║ USER      : MUHAMMAD NAZWAR          ║
-║ ROLE      : INFORMATICS STUDENT      ║
-║ UNIVERSITY: UNIVERSITAS LANGLANGBUANA║
-║ SEMESTER  : 05                       ║
-║ GPA       : 3.65 / 4.00              ║
-║ STATUS    : LEARNING & DEVELOPING    ║
-╚══════════════════════════════════════╝
+"[ ACCESS GRANTED ]"
 
-About the User
+</div>╔════════════════════════════════════════════╗
+║          STEAM // USER DATABASE            ║
+╠════════════════════════════════════════════╣
+║                                            ║
+║  USER       : MUHAMMAD NAZWAR              ║
+║  FULL NAME  : MUHAMMAD NAZWAR ABDILLAH     ║
+║               PUTRA                        ║
+║  DESIGNATION: INFORMATICS STUDENT          ║
+║  INSTITUTION: UNIVERSITAS LANGLANGBUANA    ║
+║  SEMESTER   : 05                           ║
+║  GPA        : 3.65 / 4.00                  ║
+║  LOCATION   : BANDUNG, INDONESIA           ║
+║                                            ║
+║  SYSTEM STATUS: LEARNING & DEVELOPING      ║
+╚════════════════════════════════════════════╝
+
+"01 // ABOUT THE USER"
 
 Hello! I'm Muhammad Nazwar Abdillah Putra, a 5th-semester Informatics Engineering student at Universitas Langlangbuana.
 
-I'm interested in software development and information technology, with experience in academic software projects, database management, CRUD implementation, and API testing.
+I'm passionate about software development and information technology. I have experience developing academic applications using Java, Laravel, and C#, working with MySQL and SQLite databases, implementing CRUD functionality, and testing APIs using Postman.
 
-Currently exploring software engineering, programming, and practical technology solutions.
+Currently focused on improving my programming skills, exploring software engineering, and building practical technology solutions.
 
-«"Sometimes you gotta run before you can walk."»
+«"Technology is not just about writing code. It's about creating solutions."»
 
 ---
 
-"02 // TECHNOLOGY MODULES"
+<div align="center">◈ TECHNOLOGY MODULES
 
-<div align="center">[ PROGRAMMING CORE ]
+"[ SCANNING AVAILABLE TECHNOLOGIES ]"
 
-<img src="https://skillicons.dev/icons?i=java,php,cs,cpp&theme=dark" />[ FRAMEWORK & DATABASE ]
+</div>"02 // PROGRAMMING CORE"
 
-<img src="https://skillicons.dev/icons?i=laravel,mysql,sqlite&theme=dark" />[ DEVELOPMENT TOOLS ]
+<div align="center"><img src="https://skillicons.dev/icons?i=java,php,cs,cpp&theme=dark" /></div>"03 // DEVELOPMENT FRAMEWORK"
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github&theme=dark" /></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" /></div>"04 // DATABASE SYSTEM"
 
-"03 // MISSION RECORDS"
+<div align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" /></div>"05 // DEVELOPMENT TOOLS"
 
-Mission 001 — ICISS 2025
+<div align="center"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman&theme=dark" /></div>---
 
-Role: Assistant Moderator
+<div align="center">◈ MISSION ARCHIVE
 
-"SEPTEMBER 2025"
+"[ LOADING EXPERIENCE RECORDS ]"
 
-- Assisted moderators in managing conference presentation sessions.
-- Managed presentation timing and documented session activities.
-- Recorded materials presented by national and international speakers.
-- Prepared conference documentation and reports.
+</div>MISSION 001 — ICISS 2025
 
-Mission 002 — Livable City Index Bandung 2026
+International Conference on ICT for Smart Society
 
-Role: Surveyor
+<kbd>SEPTEMBER 2025</kbd> "ROLE: ASSISTANT MODERATOR"
 
-"AUGUST – OCTOBER 2026"
+- Assisted moderators in managing presentation sessions, including timekeeping and activity summaries.
+- Documented presentations delivered by national and international speakers.
+- Prepared event reports and conference archives.
+
+MISSION 002 — LIVABLE CITY INDEX 2026
+
+Bandung City
+
+<kbd>AUGUST – OCTOBER 2026</kbd> "ROLE: SURVEYOR"
 
 - Conducted field data collection through surveys and direct interviews.
-- Coordinated with the survey team.
-- Ensured data collection followed established procedures and targets.
+- Coordinated with the survey team to ensure data collection followed established procedures.
+- Helped achieve field survey targets.
 
-Mission 003 — PKM-KC 2026
+MISSION 003 — PKM-KC 2026
 
-Role: Team Member
+Student Creativity Program – Karsa Cipta
 
-"APRIL 2026"
+<kbd>APRIL 2026</kbd> "ROLE: TEAM MEMBER"
 
-- Collaborated on an IoT-based smart trash bin research proposal.
-- Designed a concept for automatic waste sorting using sensors.
-- Contributed to a voice-guidance feature for improved accessibility for people with disabilities.
+- Collaborated on a research proposal for an IoT-based smart trash bin.
+- Developed the concept of automatic waste sorting using sensors.
+- Contributed to a voice-guidance feature to improve accessibility for people with disabilities.
 
 ---
 
-"04 // PROJECT DATABASE"
+<div align="center">◈ PROJECT DATABASE
 
-PROJECT| DESCRIPTION| TECHNOLOGY
+"[ ACCESSING DEVELOPMENT ARCHIVE ]"
+
+</div>PROJECT| DESCRIPTION| TECHNOLOGY
 Academic Applications| CRUD applications and database integration| Java, Laravel, C#, MySQL, SQLite
-Smart Trash Bin| IoT waste sorting concept with voice guidance| IoT, Sensors
+Smart Trash Bin| Automatic waste sorting concept with voice guidance| IoT, Sensors
 API Testing| API endpoint testing and validation| Postman
 
 ---
 
-"05 // EDUCATION DATABASE"
+<div align="center">◈ EDUCATION MODULE
 
-Universitas Langlangbuana
+"[ ACADEMIC RECORD ]"
 
-DEGREE      : BACHELOR'S DEGREE
-MAJOR       : INFORMATICS ENGINEERING
-PERIOD      : 2024 - PRESENT
-ACADEMIC GPA: 3.65 / 4.00
+</div>UNIVERSITAS LANGLANGBUANA
+
+DEGREE       : BACHELOR'S DEGREE
+MAJOR        : INFORMATICS ENGINEERING
+PERIOD       : 2024 - PRESENT
+CURRENT GPA  : 3.65 / 4.00
 
 ---
 
-"06 // SYSTEM DIAGNOSTICS"
+<div align="center">◈ SYSTEM DIAGNOSTICS
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=38BDF8&text_color=FFFFFF" width="49%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=38BDF8&currStreakLabel=00D9FF" width="49%" /><img src="https://komarev.com/ghpvc/?username=USERNAME&label=SYSTEM%20VISITORS&color=00D9FF&style=for-the-badge" /></div>---
+"[ GITHUB PERFORMANCE MONITOR ]"
 
-"07 // COMMUNICATION CHANNEL"
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=38BDF8&text_color=BAE6FD" width="95%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=020617&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE" width="95%" /><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20ACCESS&color=0891B2&style=for-the-badge" /></div>---
 
-<div align="center">ESTABLISH CONNECTION WITH THE USER
+<div align="center">◈ COMMUNICATION CHANNEL
+
+"[ ESTABLISH CONNECTION ]"
 
 <a href="mailto:nazwaradp@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-00B8D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a><br/><br/>
 
-STEAM AI : All systems operational.
-USER     : Muhammad Nazwar Abdillah Putra
-MISSION  : BUILD. LEARN. INNOVATE.
-STATUS   : ALWAYS DEVELOPING...
+╔══════════════════════════════════════╗
+║          STEAM AI SYSTEM             ║
+╠══════════════════════════════════════╣
+║  USER    : MUHAMMAD NAZWAR           ║
+║  MISSION : BUILD • LEARN • INNOVATE  ║
+║  STATUS  : CONTINUOUS DEVELOPMENT    ║
+╚══════════════════════════════════════╝
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0077FF&height=100&section=footer" width="100%" /></div>
+"The future is built, not predicted."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=120&section=footer" width="100%" /></div>
