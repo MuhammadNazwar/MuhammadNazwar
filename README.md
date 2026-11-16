@@ -1,151 +1,141 @@
-<!-- Cosmic Header Banner -->
+<!-- DEEP SPACE HERO HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e1b4b,100:4c1d95&height=230&section=header&text=Muhammad%20Nazwar&fontSize=46&fontColor=e0e7ff&fontAlignY=38&desc=INFORMATICS%20STUDENT%20%C2%B7%20SOFTWARE%20DEVELOPMENT%20ENTHUSIAST&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Muhammad Nazwar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:020024,45:090979,100:4c1d95&height=260&section=header&text=MUHAMMAD%20NAZWAR&fontSize=48&fontColor=38bdf8&fontAlignY=38&desc=%E2%9C%A6%20INFORMATICS%20STUDENT%20%C2%B7%20SOFTWARE%20DEVELOPMENT%20ENTHUSIAST%20%E2%9C%A6&descAlignY=62&descSize=14&animation=twinkling" width="100%" alt="Cosmic Header" />
 
+  <!-- Animated Space Typing Terminal -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+the+universe+of+technology%2C+one+line+of+code+at+a+time.;Building+CRUD+Systems%2C+APIs+%26+IoT+Concepts;Informatics+Student+at+Universitas+Langlangbuana" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=720&lines=EXPLORING+THE+UNIVERSE+OF+TECHNOLOGY;ONE+LINE+OF+CODE+AT+A+TIME+%F0%9F%9A%80;UNIVERSITAS+LANGLANGBUANA+%C2%B7+BANDUNG%2C+ID" alt="Space Typing" />
   </a>
 
   <br/>
 
-  <!-- Quick Badges -->
+  <!-- Cosmic Telemetry Pills -->
+  <img src="https://img.shields.io/badge/SECTOR-BANDUNG%2C%20ID-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/ORBIT-SEMESTER%205-0f172a?style=for-the-badge&logo=satellite&logoColor=c084fc" />
+  <img src="https://img.shields.io/badge/GPA_INDEX-3.65%20%2F%204.00-0f172a?style=for-the-badge&logo=starship&logoColor=f472b6" />
   <a href="mailto:nazwaradp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nazwaradp%40gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/TRANSMIT-nazwaradp%40gmail.com-312e81?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bandung%2C%20Indonesia-1e1b4b?style=for-the-badge&logo=googlemaps&logoColor=a78bfa" alt="Location" />
-  <img src="https://img.shields.io/badge/GPA-3.65%20%2F%204.00-312e81?style=for-the-badge&logo=academia&logoColor=38bdf8" alt="GPA" />
 </div>
+
+<!-- Glowing Nebula Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
----
-
-## 🪐 About Me
-
-Hello! I'm **Muhammad Nazwar**, an Informatics student at **Universitas Langlangbuana**, currently in my **5th semester**.
-
-I have a strong interest in **software development** and **information technology**. Through various academic projects, I have gained hands-on experience using **Java, PHP, C#, and C++**, along with **Laravel, MySQL, and SQLite**.
-
-I am familiar with developing **CRUD systems** and testing APIs/applications using **Postman**. I enjoy learning new technologies, sharpening my technical skills, and collaborating both independently and as part of a team.
-
----
-
-## 🌠 Personal Telemetry
-
-| 🛰️ Parameter | 📡 Details |
-| :--- | :--- |
-| **Name** | Muhammad Nazwar |
-| **University** | Universitas Langlangbuana |
-| **Study Program** | S1 Informatika |
-| **Semester** | 5 (Odd Term) |
-| **GPA** | `3.65 / 4.00` |
-| **Location** | Bandung, West Java, Indonesia |
-| **Focus Area** | Software Development & Information Technology |
-
----
-
-## 🚀 Technology Universe
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### ⚙️ Framework
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🛠️ Development Tools
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
----
-
-## 🛰️ Mission Archive
-
-<details open>
-  <summary><b>1. International Conference on ICT for Smart Society (ICISS) 2025</b> — <i>Assistant Moderator (September 2025)</i></summary>
-  <br/>
-  <ul>
-    <li>Assisted the moderator in managing presentation sessions smoothly.</li>
-    <li>Helped with strict timekeeping and session activity summaries.</li>
-    <li>Recorded and documented materials presented by national and international speakers.</li>
-    <li>Prepared event documentation in the form of structured reports and conference archives.</li>
-  </ul>
-</details>
-
-<details open>
-  <summary><b>2. Livable City Index Kota Bandung 2026</b> — <i>Surveyor (August – October 2026)</i></summary>
-  <br/>
-  <ul>
-    <li>Collected field data through surveys and direct interviews with respondents across Bandung.</li>
-    <li>Coordinated closely with the survey team during field data collection.</li>
-    <li>Followed established research procedures and data collection targets.</li>
-  </ul>
-</details>
-
-<details open>
-  <summary><b>3. Program Kreativitas Mahasiswa – Karsa Cipta (PKM-KC) 2026</b> — <i>Team Member (April 2026)</i></summary>
-  <br/>
-  <ul>
-    <li>Participated in preparing a team proposal for an IoT-based smart trash bin.</li>
-    <li>Developed the concept of automatic waste sorting using sensor integration.</li>
-    <li>Proposed voice guidance features to improve accessibility for people with disabilities.</li>
-  </ul>
-</details>
-
----
-
-## 🔭 Academic Exploration & Credentials
+<!-- ASTRONAUT BIO & TELEMETRY COCKPIT -->
+<div align="center">
+  <h2>🪐 <code>[ COMMANDER LOG :: ABOUT ME ]</code></h2>
+</div>
 
 <table>
   <tr>
-    <td width="55%" valign="top">
-      <h3>🧪 Areas Explored</h3>
-      <ul>
-        <li>Application development using <b>Java, Laravel, and C#</b></li>
-        <li>End-to-end <b>CRUD system</b> development</li>
-        <li>Database design & implementation (<b>MySQL & SQLite</b>)</li>
-        <li>API & endpoint testing using <b>Postman</b></li>
-        <li>Concept design for <b>IoT-based smart devices</b></li>
-      </ul>
+    <td width="62%" valign="top">
+      <br/>
+      <blockquote>
+        <b>"Exploring the universe of technology, one line of code at a time."</b>
+      </blockquote>
+      <p>
+        Greetings, traveler! I'm <b>Muhammad Nazwar</b>, an Informatics undergraduate at <b>Universitas Langlangbuana</b> currently navigating my <b>5th semester</b>.
+      </p>
+      <p>
+        My mission revolves around <b>software development</b> and <b>information technology</b>. Through academic expeditions, I have engineered applications using <b>Java, PHP, C#, and C++</b>, powered by <b>Laravel, MySQL, and SQLite</b>.
+      </p>
+      <p>
+        I specialize in building structured <b>CRUD systems</b> and validating endpoints with <b>Postman</b>—always eager to explore new tech constellations both solo and in crew missions.
+      </p>
     </td>
-    <td width="45%" valign="top">
-      <h3>🎓 Education</h3>
-      <b>Universitas Langlangbuana</b><br/>
-      <code>S1 Informatika</code><br/>
-      📅 2024 – Present<br/>
-      ⭐ GPA: <b>3.65 / 4.00</b>
-      <br/><br/>
-      <h3>🌍 Languages</h3>
-      <ul>
-        <li>🇮🇩 <b>Indonesian:</b> Native</li>
-        <li>🇬🇧 <b>English:</b> Active (Reading & Writing)</li>
-      </ul>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="230" alt="Space Orbit GIF" />
+      <br/>
+      <sub><b>SYSTEM STATUS:</b> <code>ONLINE 🟢</code></sub>
     </td>
   </tr>
 </table>
 
----
-
-## 📡 Contact Station
+<br/>
 
 <div align="center">
-  <p>Feel free to reach out for collaboration, academic projects, or software development discussions!</p>
+  <h2>🌠 <code>[ ASTRONAUT TELEMETRY DATA ]</code></h2>
 
-  <a href="mailto:nazwaradp@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20Transmission-nazwaradp%40gmail.com-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
-  </a>
+  | 🛰️ TELEMETRY KEY | 🌌 COORDINATES / VALUE |
+  | :--- | :--- |
+  | **👨‍🚀 Commander** | `Muhammad Nazwar` |
+  | **🏛️ Base Station** | `Universitas Langlangbuana` |
+  | **🛸 Division** | `S1 Informatika (Semester 5)` |
+  | **⭐ Performance Index** | `3.65 / 4.00` |
+  | **🌍 Planetary Sector** | `Bandung, West Java, Indonesia` |
+  | **🔭 Primary Mission** | `Software Development & Information Technology` |
+</div>
+
+<!-- Glowing Nebula Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- TECHNOLOGY CONSTELLATION -->
+<div align="center">
+  <h2>🚀 <code>[ TECHNOLOGY UNIVERSE & ARSENAL ]</code></h2>
+  <p><i>Core languages, frameworks, and instruments powering my spacecraft</i></p>
+
+  <br/>
+
+  **💻 CORE LANGUAGES**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,php,cs,cpp&theme=dark" alt="Languages" />
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1e1b4b,100:090d16&height=130&section=footer&text=Beyond%20the%20Code%2C%20Into%20the%20Universe&fontSize=20&fontColor=c4b5fd&fontAlignY=68&desc=Keep%20Learning%20%C2%B7%20Keep%20Exploring%20%C2%B7%20Keep%20Creating&descAlignY=88&descSize=13" width="100%" alt="Footer Banner" />
+  **⚙️ FRAMEWORK & 🗄️ DATA CORES**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,sqlite&theme=dark" alt="Framework and Database" />
+
+  <br/><br/>
+
+  **🛠️ ORBITAL INSTRUMENTS & TOOLS**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman&theme=dark" alt="Dev Tools" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-0f172a?style=for-the-badge&logo=microsoft-excel&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-0f172a?style=for-the-badge&logo=microsoft-word&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-0f172a?style=for-the-badge&logo=microsoft-powerpoint&logoColor=f97316" />
 </div>
+
+<!-- Glowing Nebula Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- MISSION ARCHIVE LOGS -->
+<div align="center">
+  <h2>🛰️ <code>[ MISSION ARCHIVE LOGS ]</code></h2>
+</div>
+
+```yaml
+MISSION_01:
+  Title  : "International Conference on ICT for Smart Society (ICISS) 2025"
+  Role   : "Assistant Moderator"
+  Period : "September 2025"
+  Logs   :
+    - "Assisted the moderator in managing presentation sessions."
+    - "Executed strict timekeeping and session activity summaries."
+    - "Recorded and documented materials from national & international speakers."
+    - "Compiled event documentation into structured conference reports & archives."
+
+MISSION_02:
+  Title  : "Livable City Index Kota Bandung 2026"
+  Role   : "Surveyor"
+  Period : "August – October 2026"
+  Logs   :
+    - "Collected field telemetry through surveys and direct respondent interviews."
+    - "Coordinated with the survey squad during field data acquisition."
+    - "Maintained compliance with established procedures and target metrics."
+
+MISSION_03:
+  Title  : "Program Kreativitas Mahasiswa – Karsa Cipta (PKM-KC) 2026"
+  Role   : "Team Member"
+  Period : "April 2026"
+  Logs   :
+    - "Engineered a team proposal for an IoT-based smart waste receptacle."
+    - "Designed automatic waste sorting logic using multi-sensor integration."
+    - "Proposed voice-guidance accessibility features for users with disabilities."
