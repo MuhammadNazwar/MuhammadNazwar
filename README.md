@@ -1,111 +1,114 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Nazwar&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Informatics%20Engineering%20Student%20%7C%20Software%20Development&descAlignY=55&descSize=14" width="100%" /><a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student;Aspiring+Software+Developer;Java+%7C+PHP+%7C+C%23+%7C+C%2B%2B;Building+Practical+Software+Solutions" alt="Typing SVG" />
-</a><p>
-<a href="mailto:nazwaradp@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p></div>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=STEAM%20AI%20SYSTEM&fontSize=36&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=PERSONAL%20ARTIFICIAL%20INTELLIGENCE%20INTERFACE&descSize=12&descAlignY=60" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;WELCOME+TO+NAZWAR'S+DEVELOPMENT+LAB;SOFTWARE+DEVELOPMENT+MODULE+ACTIVE;JAVA+%7C+PHP+%7C+C%23+%7C+C%2B%2B;POWERED+BY+STEAM+AI" /><br/><img src="https://img.shields.io/badge/STEAM-AI%20ASSISTANT-00D9FF?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/USER-MUHAMMAD%20NAZWAR-0077FF?style=for-the-badge" /></div>---
 
-👨‍💻 About Me
+"01 // USER IDENTIFICATION"
 
-- 🎓 5th-semester Informatics Engineering undergraduate student at Universitas Langlangbuana.
-- 📊 Current GPA: 3.65 / 4.00.
-- 💻 Interested in software development and information technology.
-- 🚀 Experienced in developing academic projects using Java, Laravel, and C#.
-- 🗄️ Familiar with database management using MySQL and SQLite.
-- 🔧 Experienced in building CRUD applications and testing APIs using Postman.
-- 🤝 Able to work independently and collaboratively in a team.
+╔══════════════════════════════════════╗
+║         STEAM AI INTERFACE           ║
+╠══════════════════════════════════════╣
+║ USER      : MUHAMMAD NAZWAR          ║
+║ ROLE      : INFORMATICS STUDENT      ║
+║ UNIVERSITY: UNIVERSITAS LANGLANGBUANA║
+║ SEMESTER  : 05                       ║
+║ GPA       : 3.65 / 4.00              ║
+║ STATUS    : LEARNING & DEVELOPING    ║
+╚══════════════════════════════════════╝
 
----
+About the User
 
-🛠️ Tech Stack & Tools
+Hello! I'm Muhammad Nazwar Abdillah Putra, a 5th-semester Informatics Engineering student at Universitas Langlangbuana.
 
-<div align="center">Programming Languages
+I'm interested in software development and information technology, with experience in academic software projects, database management, CRUD implementation, and API testing.
 
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-"C Sharp" (https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Currently exploring software engineering, programming, and practical technology solutions.
 
-Framework
-
-"Laravel" (https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-Databases
-
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"SQLite" (https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-Tools & Applications
-
-"Visual Studio Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-"Visual Studio" (https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-"Microsoft Office" (https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
-</div>---
-
-💼 Experience & Activities
-
-International Conference on ICT for Smart Society (ICISS) 2025
-
-<text align="right">September 2025</text>
-
-Assistant Moderator
-
-- Assisted moderators in managing presentation sessions, including timekeeping and activity summaries.
-- Recorded and documented materials presented by national and international speakers.
-- Prepared event documentation, reports, and conference archives.
-
-Livable City Index – Bandung City 2026
-
-Surveyor | August – October 2026
-
-- Conducted field data collection through surveys and direct interviews with respondents.
-- Coordinated with the survey team to ensure data collection followed established procedures and targets.
-
-Student Creativity Program – Karsa Cipta (PKM-KC) 2026
-
-Team Member | April 2026
-
-- Collaborated on a research proposal for an IoT-based smart trash bin capable of automatically sorting waste using sensors.
-- Contributed to the design of a voice-guidance feature to improve accessibility for people with disabilities.
+«"Sometimes you gotta run before you can walk."»
 
 ---
 
-🚀 Academic Projects & Interests
+"02 // TECHNOLOGY MODULES"
 
-Project / Area| Description| Technologies
-Academic Software Development| Development of academic applications involving CRUD functionality and database integration.| Java, Laravel, C#, MySQL, SQLite
-Smart Waste Sorting System| Proposal for an IoT-based smart trash bin with automatic waste sorting and voice guidance.| IoT, Sensors
-API Testing| Testing and validating application API endpoints.| Postman
+<div align="center">[ PROGRAMMING CORE ]
+
+<img src="https://skillicons.dev/icons?i=java,php,cs,cpp&theme=dark" />[ FRAMEWORK & DATABASE ]
+
+<img src="https://skillicons.dev/icons?i=laravel,mysql,sqlite&theme=dark" />[ DEVELOPMENT TOOLS ]
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github&theme=dark" /></div>---
+
+"03 // MISSION RECORDS"
+
+Mission 001 — ICISS 2025
+
+Role: Assistant Moderator
+
+"SEPTEMBER 2025"
+
+- Assisted moderators in managing conference presentation sessions.
+- Managed presentation timing and documented session activities.
+- Recorded materials presented by national and international speakers.
+- Prepared conference documentation and reports.
+
+Mission 002 — Livable City Index Bandung 2026
+
+Role: Surveyor
+
+"AUGUST – OCTOBER 2026"
+
+- Conducted field data collection through surveys and direct interviews.
+- Coordinated with the survey team.
+- Ensured data collection followed established procedures and targets.
+
+Mission 003 — PKM-KC 2026
+
+Role: Team Member
+
+"APRIL 2026"
+
+- Collaborated on an IoT-based smart trash bin research proposal.
+- Designed a concept for automatic waste sorting using sensors.
+- Contributed to a voice-guidance feature for improved accessibility for people with disabilities.
 
 ---
 
-🎓 Education
+"04 // PROJECT DATABASE"
+
+PROJECT| DESCRIPTION| TECHNOLOGY
+Academic Applications| CRUD applications and database integration| Java, Laravel, C#, MySQL, SQLite
+Smart Trash Bin| IoT waste sorting concept with voice guidance| IoT, Sensors
+API Testing| API endpoint testing and validation| Postman
+
+---
+
+"05 // EDUCATION DATABASE"
 
 Universitas Langlangbuana
 
-- Bachelor's Degree in Informatics Engineering
-- 2024 – Present
-- GPA: 3.65 / 4.00
+DEGREE      : BACHELOR'S DEGREE
+MAJOR       : INFORMATICS ENGINEERING
+PERIOD      : 2024 - PRESENT
+ACADEMIC GPA: 3.65 / 4.00
 
 ---
 
-🌐 Languages
+"06 // SYSTEM DIAGNOSTICS"
 
-- 🇮🇩 Indonesian — Native
-- 🇬🇧 English — Reading and Writing
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=38BDF8&text_color=FFFFFF" width="49%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=38BDF8&currStreakLabel=00D9FF" width="49%" /><img src="https://komarev.com/ghpvc/?username=USERNAME&label=SYSTEM%20VISITORS&color=00D9FF&style=for-the-badge" /></div>---
 
----
+"07 // COMMUNICATION CHANNEL"
 
-<div align="center">📫 Let's Connect!
-
-Interested in software development, technology, and new opportunities.
+<div align="center">ESTABLISH CONNECTION WITH THE USER
 
 <a href="mailto:nazwaradp@gmail.com">
-<img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" /></div>
+<img src="https://img.shields.io/badge/GMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a><a href="https://github.com/USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+</a><br/><br/>
+
+STEAM AI : All systems operational.
+USER     : Muhammad Nazwar Abdillah Putra
+MISSION  : BUILD. LEARN. INNOVATE.
+STATUS   : ALWAYS DEVELOPING...
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0077FF&height=100&section=footer" width="100%" /></div>
